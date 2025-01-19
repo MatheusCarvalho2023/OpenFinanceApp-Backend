@@ -10,11 +10,6 @@ This repository contains the **ASP.NET MVC** backend for **OpenFinanceApp**, pro
 - [Features](#features)
 - [Technology Stack](#technology-stack)
 - [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Database Migrations](#database-migrations)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
